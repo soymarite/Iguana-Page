@@ -1,0 +1,129 @@
+* {
+box-sizing: border-box;
+font-family: 'Raleway';
+color: #ffffff;
+}
+
+body {
+background: #000000;
+}
+
+header {
+width: 100%;
+background: #000000;
+}
+
+header h1 {
+font-size: 50px;
+text-align: center;
+font-weight: 500;
+height: 73px;
+color: #ffffff;
+}
+
+header img {
+width: 100%;
+}
+
+.desc-section {
+background: #000000;
+margin-top: 0px;
+height: 348px;
+}
+
+.container {
+width: 80%;
+margin: 30px auto;
+height: auto;
+padding: 20px;
+}
+
+.row-container {
+width: 100%;
+display: block;
+clear: both;
+height: auto;
+}
+
+.texto{
+font-weight: 300;
+font-size: 16px;
+text-align: left;
+display: table-cell;
+width: 50%;
+height: auto;
+vertical-align: middle;
+color: #ffffff;
+padding: 20px;
+
+}
+.imagen {
+display: table-cell;
+width: 50%;
+vertical-align: middle;
+padding: 30px;
+}
+
+.imagen img {
+width: 399px;
+height: 237px;
+}
+
+.icons-section {
+background:#1E1A13;
+}
+
+h2{
+width: 100%;
+text-align: center;
+font-size: 40px;
+padding: 30px;
+}
+
+.row {
+width: 100%;
+height:auto;
+display: block;
+padding: 20px;
+}
+
+.col-3 {
+width: 33.4%;
+display: table-cell;
+padding: 80px 95px;
+vertical-align: middle;
+text-align: center;
+}
+
+.icons-section .container {
+margin-left: 180px;
+margin-right: 88.813px;
+margin-bottom: 150px;
+}
+
+.icons-section p {
+font-size: 24px;
+font-weight: 300;
+}
+
+.container img {
+width: 316px;
+height: 202px;
+}
+
+.iguanas .col-3 {
+padding: 15px;
+}
+
+.footer p {
+text-align: center;
+color: #ffffff;
+font-size: 24px;
+font-weight: 300;
+padding: 35px;
+}
+
+.footer {
+width: 100%;
+background: #1E1A13;
+height: 102px;}
